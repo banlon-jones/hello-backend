@@ -1,11 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello rails backend app
+Implements a connection between a Ruby on Rails back-end and React front-end in two applications with different repositories. 
+This is back-and Rails Api app, with end point that randomly return a greetings from an array fetch from the database
+## Link to the react frontend app repo
 
-randomly return a greetings from an array 
-## Live Version
+https://github.com/banlon-jones/hello-frontend-app
 
-Coming soon
+## Link to Rails backend app
+
+https://github.com/banlon-jones/hello-backend
 
 ## Built With
 - Ruby on Rails
@@ -22,7 +26,7 @@ Coming soon
 
 ### Setup
 
-- clone the following repo `https://github.com/banlon-jones/budget-app.git`
+- clone the following repo `https://github.com/banlon-jones/hello-backend`
 - cd into the directory and run `bundle install` to install dependencies
 - Run `rails db:create` and then `rails db:migrate`
 - Run `rails s` to start the app
