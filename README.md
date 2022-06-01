@@ -1,24 +1,61 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello rails backend app
 
-Things you may want to cover:
+randomly return a greetings from an array 
+## Live Version
 
-* Ruby version
+Coming soon
 
-* System dependencies
+## Built With
+- Ruby on Rails
 
-* Configuration
+## Getting Started
+- Follow setup instructions below
 
-* Database creation
+### Prerequisites
 
-* Database initialization
+- Ruby
+- Git and Github
+- Terminal
+- Browser
 
-* How to run the test suite
+### Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+- clone the following repo `https://github.com/banlon-jones/budget-app.git`
+- cd into the directory and run `bundle install` to install dependencies
+- Run `rails db:create` and then `rails db:migrate`
+- Run `rails s` to start the app
+- Visit `localhost:3000` in your browser
 
-* Deployment instructions
+### Tests
 
-* ...
+- To run the tests, simply run `rspec` command
+
+# Credits
+
+## Authors
+
+👤 **Banlon Jones**.
+
+- Github: [banlon-jones](https://github.com/banlon-jones)
+- Twitter: [@banlonj](https://twitter.com/banlonjones)
+- LinkedIn: [banlon jones](https://www.linkedin.com/in/banlon-jones-b0205812a)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/banlon-jones/hello-backend/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
